@@ -1,0 +1,9 @@
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\bin\Debug\LMSLibrary.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\bin\Debug\LMSLibrary.pdb
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\bin\Debug\LMS.Common.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\bin\Debug\LMS.Common.pdb
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\obj\Debug\LMSLibrary.csproj.AssemblyReference.cache
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\obj\Debug\LMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\obj\Debug\LMSLibrary.csproj.CopyComplete
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\obj\Debug\LMSLibrary.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMSLibrary\obj\Debug\LMSLibrary.pdb

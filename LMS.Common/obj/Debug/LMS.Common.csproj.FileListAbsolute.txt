@@ -1,0 +1,5 @@
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMS.Common\bin\Debug\LMS.Common.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMS.Common\bin\Debug\LMS.Common.pdb
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMS.Common\obj\Debug\LMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMS.Common\obj\Debug\LMS.Common.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\LMS.Common\obj\Debug\LMS.Common.pdb

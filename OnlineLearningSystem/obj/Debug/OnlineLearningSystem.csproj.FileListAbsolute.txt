@@ -1,0 +1,7 @@
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\bin\OnlineLearningSystem.dll.config
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\bin\OnlineLearningSystem.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\bin\OnlineLearningSystem.pdb
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\obj\Debug\OnlineLearningSystem.csproj.AssemblyReference.cache
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\obj\Debug\OnlineLearningSystem.csproj.CoreCompileInputs.cache
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\obj\Debug\OnlineLearningSystem.dll
+C:\Users\MISUKA\Downloads\onlinelearningsystem\OnlineLearningSystem\obj\Debug\OnlineLearningSystem.pdb

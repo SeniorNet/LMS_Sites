@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\ludadmin\\AdminPages.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\CompilerFunctionsTemp\\CompilerFunctionsTemp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\CompilerFunctionsTemp\\CompilerFunctionsTemp.csproj",
+        "projectName": "CompilerFunctionsTemp",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\CompilerFunctionsTemp\\CompilerFunctionsTemp.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\Compilers.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\Compilers.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\Compilers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\Compilers.csproj",
+        "projectName": "Compilers",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\Compilers.csproj",
+        "packagesPath": "C:\\Users\\MISUKA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\Compilers\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MISUKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            },
+            "Bytescout.Spreadsheet": {
+              "target": "Package",
+              "version": "[4.5.1.2018, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.28.0, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Bcl.HashCode": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Net.Http.Headers": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Syncfusion.XlsIO.AspNet": {
+              "target": "Package",
+              "version": "[20.1.0.60, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "XmlDiffLib": {
+              "target": "Package",
+              "version": "[1.0.1.3, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\EFModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\EFModel.csproj",
+        "projectName": "EFModel",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\EFModel.csproj",
+        "packagesPath": "C:\\Users\\MISUKA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MISUKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj",
+        "projectName": "LMS.Common",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj",
+        "projectName": "LMSLibrary",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\ludadmin\\AdminPages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\ludadmin\\AdminPages.csproj",
+        "projectName": "AdminPages",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\ludadmin\\AdminPages.csproj",
+        "packagesPath": "C:\\Users\\MISUKA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\ludadmin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MISUKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\EFModel.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\EFModel\\EFModel.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\RESTCompilerFunctions\\RESTCompilerFunctions.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\RESTCompilerFunctions\\RESTCompilerFunctions.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.FriendlyUrls": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\RESTCompilerFunctions\\RESTCompilerFunctions.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\RESTCompilerFunctions\\RESTCompilerFunctions.csproj",
+        "projectName": "RESTCompilerFunctions",
+        "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\RESTCompilerFunctions\\RESTCompilerFunctions.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\CompilerFunctionsTemp\\CompilerFunctionsTemp.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\CompilerFunctionsTemp\\CompilerFunctionsTemp.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMS.Common\\LMS.Common.csproj"
+              },
+              "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj": {
+                "projectPath": "C:\\Users\\MISUKA\\Downloads\\onlinelearningsystem\\LMSLibrary\\LMSLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
